@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+Uuconst fetch = require('node-fetch');
 const moment = require('moment');
 const chalk = require('chalk');
 const consola = require('consola');
@@ -60,7 +60,7 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix & Wahyu 
       const crown = data.User.Crowns;
 
 (consola.info(` [ ${moment().format('HH:mm:ss')} ] ${consola.info(`User : ${username}`)} ${consola.info(`Server : ${country}`)} ${consola.info(`Trophy : ${trophy}`)} ${consola.info(`Crown : ${crown}`)}`));
-      menunggu      tidur ( 2700 );
+      await      tidur ( 2700 );
 saya
     } else  if ( hasil  ==  'BANNED' ) {
       console.log(consola.error(`Your Account has been Banned`));
