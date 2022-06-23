@@ -60,7 +60,7 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix & Wahyu 
       const crown = data.User.Crowns;
 
 (consola.info(` [ ${moment().format('HH:mm:ss')} ] ${consola.info(`User : ${username}`)} ${consola.info(`Server : ${country}`)} ${consola.info(`Trophy : ${trophy}`)} ${consola.info(`Crown : ${crown}`)}`));
-      await      tidur ( 2700 );
+      await      sleep ( 2700 );
 saya
     } else  if ( hasil  ==  'BANNED' ) {
       console.log(consola.error(`Your Account has been Banned`));
