@@ -37,7 +37,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 ╰╯┃┈┈┈┈┈┈┃╰╯
 ┈┈╰┓┏━━┓┏╯
 ┈┈┈╰╯┈┈╰╯ Trophy And Crown Hack Safe! [ReEdit]
-By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix
+By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix & Wahyu HENGKERS TZY
 `);
 
   const auth = rs.question('Enter Authentication Code! : ');
@@ -60,7 +60,7 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix
       const crown = data.User.Crowns;
 
 (consola.info(` [ ${moment().format('HH:mm:ss')} ] ${consola.info(`User : ${username}`)} ${consola.info(`Server : ${country}`)} ${consola.info(`Trophy : ${trophy}`)} ${consola.info(`Crown : ${crown}`)}`));
-      menunggu      tidur ( 5000 );
+      menunggu      tidur ( 2700 );
 saya
     } else  if ( hasil  ==  'BANNED' ) {
       console.log(consola.error(`Your Account has been Banned`));
